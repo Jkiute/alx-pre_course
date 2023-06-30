@@ -1,0 +1,2 @@
+echo "git pull" > up_to_date
+echo "git merge" >> up_to_date
